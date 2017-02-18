@@ -11,7 +11,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/aws/aws-sdk-go/service/s3/s3iface"
-	"github.com/spf13/afero"
+	"github.com/ns-cweber/afero"
 )
 
 // S3Fs is an FS object backed by S3.

@@ -14,7 +14,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/spf13/afero"
+	"github.com/ns-cweber/afero"
 )
 
 var testName = "test.txt"
